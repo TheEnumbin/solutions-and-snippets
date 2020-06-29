@@ -1,0 +1,12 @@
+Grandle zip can not be unzipped can not download etc.
+========================================================
+
+Make sure you have Internet Connection then:
+
+1.For Window Users Go to > C:\Users\username\.gradle\wrapper\dists
+
+2.For Linux users Go to $HOME/.gradle (~/.gradle) and/or (Under Specific project) <PROJECT_DIR>/.gradle
+
+3.Delete the gradle file(s) with the problem(i.e the zipped folders with missing with no its extracted file )
+
+4.Sync the project with gradle files.
